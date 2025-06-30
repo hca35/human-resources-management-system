@@ -65,8 +65,9 @@ It allows the addition, listing, searching, and deletion of employee records usi
 ## 🧪 How to Run
 
 Clone the repository:
-
+```bash
 git clone https://github.com/your-username/hr-management-system.git
+```
 
 ---
 
